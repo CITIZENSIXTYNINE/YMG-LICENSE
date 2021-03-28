@@ -1,4 +1,6 @@
-Copyright <YEAR> <OWNER>
+Have you ever sat there and thought "Permissive licenses seem nice, but i don't want my code to be cucked!"? Well i have the solution. Introducing the your mum gay license. It is very permissive while also protecting your code from being cucked. Just read the license and you will realize how this is objectively better than any other license.
+
+```Copyright <YEAR> <OWNER>
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
@@ -17,4 +19,4 @@ IF YOU DISTRIBUTE THIS CODE WITHOUT THE 4 ESSENTIAL FREEDOMS THAT ARE LISTED ABO
 * YOU'RE MORE WORTHLESS THAN A PIECE OF SHIT
 * I FUCKED YOUR MOM
 * THE ONLY PUSSY YOU HAVE EVER SLAYED IS YOUR PET CAT
-* PLEASE RELEASE YOUR SOURCE CODE WITH THE 4 ESSENTIAL FREEDOMS AND GIVE CREDIT TO THE COPYRIGHT HOLDERS LISTED AT THE START OF THIS DOCUMENT.
+* PLEASE RELEASE YOUR SOURCE CODE WITH THE 4 ESSENTIAL FREEDOMS AND GIVE CREDIT TO THE COPYRIGHT HOLDERS LISTED AT THE START OF THIS DOCUMENT.```
