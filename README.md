@@ -1,8 +1,15 @@
-Have you ever sat there and thought "Permissive licenses seem nice, but i 
-don't want my code to be cucked!"? Well i have the solution. Introducing the 
-your mum gay license. It is very permissive while also protecting your code 
-from being cucked. Just read the license and you will realize how this is 
-objectively better than any other license.
+# Your Mom Gay (YMG) License
+
+The YMG License is a Permissive License with added protections like:
+- Calling your Mother a Homosexual person.
+- Calling your Grandmother a Transgender person.
+- Telling you that nobody around your social circle likes you.
+- Telling you that you're more worthless than a piece of excrement.
+- Informing you that I fucked your mother.
+- Telling you that the only female reproductive system you've ever touched is your Feline Mascot.
+- Asking kindly the robber to release the code with the essential freedoms (listed below) and to provide credit to the copyright holders listed at the start of the document.
+
+
 
 ```
 Copyright <YEAR> <OWNER>
