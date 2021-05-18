@@ -1,8 +1,8 @@
-# HEY, THIS LICENSE HAS BEEN ARCHIVE AND ITS NOT MEANT TO BE USED ON ACTUAL PROJECTS
+# HEY, THIS LICENSE HAS BEEN ARCHIVED AND ITS NOT MEANT TO BE USED ON ACTUAL PROJECTS
 Please consider using the following licenses instead of this one:
 1. [YMGv2](https://github.com/citizensixtynine/YMG-v2)
 2. [MIT License](https://opensource.org/licenses/MIT)
-3. [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)"Don't use v3"
+3. [GPLv2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 3. [Unlicense](https://unlicense.org/)
 
 
